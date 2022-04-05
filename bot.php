@@ -12,7 +12,7 @@
     $start_msg = $_ENV['START_MSG']; 
 
 if($message == "/start"){
-    send_message($chat_id,$message_id, "***Hey $firstname \nWada karana ape wiruwa \n$start_msg***");
+    send_message($chat_id,$message_id, "***Hey \n\n\n\n\n\n\n\n\nWada karana ape wiruwa \nmawbimata puke ariya***");
 }
 
 //Bin Lookup
