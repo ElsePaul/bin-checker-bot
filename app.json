@@ -12,10 +12,7 @@
     "env": {
         "API_TOKEN": {
             "description": "API Token , get it from @BotFather"
-        },
-        "START_MSG": {
-           "description": "Enter Custom Start Message"
-    }
+        }
     },
     "formation": {
         "web": {
