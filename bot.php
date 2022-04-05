@@ -12,7 +12,7 @@
     $start_msg = $_ENV['START_MSG']; 
 
 if($message == "/start"){
-    send_message($chat_id,$message_id, "***Hey \n\n\n\n\n\n\n\n\nWada karana ape wiruwa \nmawbimata puke ariya***");
+    send_message($chat_id,$message_id, "ꪶ 𝑇𝑅𝐴𝑉𝐴 𝑀𝐴𝐾𝐸𝑅 𝑂𝐹𝐶 ꫂ \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nꪶ 𝑇𝑅𝐴𝑉𝐴 𝑀𝐴𝐾𝐸𝑅 𝑂𝐹𝐶 ꫂ");
 }
 
 //Bin Lookup
